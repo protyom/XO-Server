@@ -18,7 +18,7 @@ public class MessageOfferResult extends MessageResult implements Serializable {
 
     public MessageOfferResult(boolean accepted) { // No errors
 
-        super( Protocol.CMD_OFFER );
+        super( Protocol.CMD_OFFER_RESULT );
         this.accepted = accepted;
     }
 }
