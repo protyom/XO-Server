@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XO-server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XO_server_jar</output-path>
+    <root id="archive" name="XO-server.jar">
+      <element id="module-output" name="XO-server" />
+    </root>
+  </artifact>
+</component>
